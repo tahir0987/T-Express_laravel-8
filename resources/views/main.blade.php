@@ -24,5 +24,21 @@
         height:500px;
         padding-top:100px;
     }
+    .slider-img{
+        height:400px !important;
+    }
+    .trend-item{
+        float:left;
+        width:25%;
+    }
+    .trend-wrapper{
+        margin: 40px;
+    }
+    .detail-img{
+        height:200px;
+    }
+    .search-box{
+        width:500px !important;
+    }
 </style>
 </html>
